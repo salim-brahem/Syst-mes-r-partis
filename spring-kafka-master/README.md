@@ -1,4 +1,4 @@
-This application performs four main tasks:
+This application performs four key tasks:
 - Testing a consumer
 - Testing a producer
 - Testing a supplier
