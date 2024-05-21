@@ -1,6 +1,6 @@
 
 
-##this application performs four main tasks:
+This application performs four main tasks:
 - Testing a consumer
 - Testing a producer
 - Testing a supplier
